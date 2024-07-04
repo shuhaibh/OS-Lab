@@ -1,3 +1,4 @@
+//Program to implement CPU scheduling
 #include<stdio.h>
 #include<stdlib.h>
 struct process{
