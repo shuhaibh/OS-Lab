@@ -1,3 +1,4 @@
+//Program to implement a 2 person chat environment
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/ipc.h>
